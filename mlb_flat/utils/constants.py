@@ -4,11 +4,11 @@ All tunable parameters in one place. Edit here to adjust model behavior.
 """
 
 # ── Season boundaries ──────────────────────────────────────────────────────────
-SEASON_YEAR = 2025
-OPENING_DAY = "2025-03-27"
-WORLD_SERIES_END_APPROX = "2025-11-01"   # updated after WS ends
-TRADE_DEADLINE = "2025-07-31"
-DEADLINE_RAMP_START = "2025-07-01"       # when July ramp begins
+SEASON_YEAR = 2026
+OPENING_DAY = "2026-03-26"
+WORLD_SERIES_END_APPROX = "2026-11-01"
+TRADE_DEADLINE = "2026-07-31"
+DEADLINE_RAMP_START = "2026-07-01"
 
 # ── Stat weighting for projections ────────────────────────────────────────────
 WEIGHT_CURRENT_SEASON = 0.50
